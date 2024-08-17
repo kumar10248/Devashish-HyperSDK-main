@@ -33,7 +33,8 @@ https://www.loom.com/share/7edea85bddfe4ac4a4314ba9e6c10a0b?sid=251a7e5e-754e-4b
 
 
 - After successful creation we are going to mint using the following command [./build/token-cli action mint-asset] then after running this command we have to provide our assetID which is similar to our txID (so copy and give it to the assetID) then it will ask for the value so give some and type 'y' for confirmation.
-  
+  <img width="1212" alt="Screenshot 2024-08-12 at 11 04 57 PM" src="https://github.com/user-attachments/assets/877b4434-7312-4dcc-b613-d67e8d8a9bb8">
+
 
 - Then we will be going to check/view our balance using  command [./build/token-cli key balance] here also we have to give the assetID which is similar to the txID.
   
