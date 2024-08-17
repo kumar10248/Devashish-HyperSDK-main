@@ -38,6 +38,9 @@ https://www.loom.com/share/7edea85bddfe4ac4a4314ba9e6c10a0b?sid=251a7e5e-754e-4b
 
 - Then we will be going to check/view our balance using  command [./build/token-cli key balance] here also we have to give the assetID which is similar to the txID.
   
+<img width="1172" alt="Screenshot 2024-08-12 at 11 05 10 PM" src="https://github.com/user-attachments/assets/5e4791dd-0856-4cdb-850f-379c93240ab5">
+<img width="1181" alt="Screenshot 2024-08-12 at 11 05 21 PM" src="https://github.com/user-attachments/assets/767f508c-960e-4f01-a2f5-3dbc0fbdeaed">
+<img width="1106" alt="Screenshot 2024-08-12 at 11 05 45 PM" src="https://github.com/user-attachments/assets/4d1b52ed-f85f-46cc-bb41-d18f071c3956">
 
 
 - We are having some command which we can also  use for different functionalities
