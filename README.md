@@ -29,6 +29,7 @@ https://www.loom.com/share/7edea85bddfe4ac4a4314ba9e6c10a0b?sid=251a7e5e-754e-4b
 ### Executing program
 - Firstly we are going to create our asset for that we have to run command [./build/token-cli action create-asset] then it will give the address and chainID , then asks for the metadata where we have to provide our chain name.
   
+<img width="1049" alt="Screenshot 2024-08-12 at 11 04 50 PM" src="https://github.com/user-attachments/assets/97f922be-d9e1-43da-80ed-34617934479e">
 
 
 - After successful creation we are going to mint using the following command [./build/token-cli action mint-asset] then after running this command we have to provide our assetID which is similar to our txID (so copy and give it to the assetID) then it will ask for the value so give some and type 'y' for confirmation.
